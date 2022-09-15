@@ -1,0 +1,7 @@
+.mySelect {
+    display: inline-block;
+    margin: 5px;
+    border: 1px solid teal;
+    border-radius: 5px;
+    width: auto;
+}
